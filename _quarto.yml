@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Saifuddin86.github.io"
-  navbar:
+  sidebar:
     left:
       - href: index.qmd
         text: Home
